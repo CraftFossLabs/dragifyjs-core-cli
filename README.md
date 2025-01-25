@@ -1,6 +1,6 @@
 # dragifyJS CLI
 
-[![npm](https://img.shields.io/npm/v/dragifyjs-cli.svg)](https://www.npmjs.com/package/dragifyjs-cli)
+[![npm](https://img.shields.io/npm/v/dragifyjs-cli.svg)](https://www.npmjs.com/package/dragifyjs-core-cli)
 
 ![dragifyjs-cli](https://res.cloudinary.com/dhumqtbfb/image/upload/v1737644597/dragify_kdomgh.webp)
 
