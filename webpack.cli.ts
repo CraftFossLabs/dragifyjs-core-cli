@@ -4,9 +4,11 @@ import CopyPlugin from 'copy-webpack-plugin';
 import ForkTsCheckerWebpackPlugin from 'fork-ts-checker-webpack-plugin';
 import { resolve } from 'path';
 
+const MODE = process.env.BUILD_MODE === 'production' ? 'production' : 'development';
+
 const config: Configuration = {
   context: process.cwd(),
-  mode: 'production',
+  mode: MODE,
   entry: './src/cli.ts',
   output: {
     filename: 'cli.js',
