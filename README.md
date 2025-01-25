@@ -1,6 +1,8 @@
-# dragifyJS CLI
-
-[![npm](https://img.shields.io/npm/v/dragifyjs-cli.svg)](https://www.npmjs.com/package/dragifyjs-core-cli)
+<h1 align="center">dragifyjs-core-cli</h1><br><br>
+<p align="center">
+<a href="https://www.npmjs.com/package/dragifyjs-core-cli"><img src="https://img.shields.io/npm/v/dragifyjs-core-cli.svg?sanitize=true" alt="Version"></a>
+<a href="https://www.npmjs.com/package/dragifyjs-core-cli"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs"></a>
+</p>
 
 ![dragifyjs-cli](https://res.cloudinary.com/dhumqtbfb/image/upload/v1737644597/dragify_kdomgh.webp)
 
